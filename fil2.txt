@@ -1,1 +1,2 @@
 Och detta är då fil 2
+Som har två rader i sig
